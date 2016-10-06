@@ -465,7 +465,7 @@ ol.type li a:hover {
 	border: 1px solid #eee;
 	border-radius: 100%;
 	text-align: center;
-	background: #fff;
+	background: #eee;
 }
 .timeline>li .timeline-image h4 {
 	margin-top: 20px;
